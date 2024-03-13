@@ -5,7 +5,7 @@
 </br>
 <center><h1 align="center">Hi 👋, I'm Sidharth Mehta</h1></center>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharth70754&label=Profile%20views&color=0e75b6&style=flat" alt="sidharth70754" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sidharthmehta28" target="blank"><img src="https://img.shields.io/twitter/follow/sidharthmehta28?logo=twitter&style=for-the-badge" alt="sidharthmehta28" /></a> </p>
