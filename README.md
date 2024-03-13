@@ -1,6 +1,14 @@
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <h1 align="center">Hi 👋, I'm Sidharth Mehta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharth70754&label=Profile%20views&color=0e75b6&style=flat" alt="sidharth70754" /> </p>
 
