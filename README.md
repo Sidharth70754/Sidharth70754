@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sidharthmeht2004@gmail.com**
 
-- ⚡ Fun fact **I am a Coder**
+- ⚡ Fun fact **I am a Great Coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
