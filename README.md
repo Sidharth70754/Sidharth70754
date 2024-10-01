@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/030/807/753/original/a-hacking-background-with-binary-and-hexdecimal-code-on-a-screen-video.jpg)
+![image](https://github.com/user-attachments/assets/f74fa934-3ffb-405a-8e39-c71efeeed6df)![image](https://github.com/user-attachments/assets/065c9dbb-6d0b-46cf-a9d6-76112eaf6441)![image](https://github.com/user-attachments/assets/aa9fe478-5a1e-4a0a-8665-d9c91b27c69f)![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/030/807/753/original/a-hacking-background-with-binary-and-hexdecimal-code-on-a-screen-video.jpg)
 <h1 align="center">Hi 👋, I'm Sidharth Mehta</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
